@@ -1,0 +1,1 @@
+print("Sistema de teste para o curso de Python")
